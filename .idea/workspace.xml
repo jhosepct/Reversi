@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="48664240-7d64-4d65-9b5a-9331e715967a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReversiGameUNCP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/BoardCell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/BoardHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/BoardPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/GameEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/GamePanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/GamePlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/GameWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/Home.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/Home.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/images/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/player/GreedyPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/player/HumanPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/player/RandomPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/player/ai/AIPlayerDynamic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/player/ai/AIPlayerRealtime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/player/ai/AIPlayerRealtimeKiller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/player/ai/AIPlayerStatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/player/ai/DynamicEvaluator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/player/ai/Evaluator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/player/ai/Minimax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/player/ai/OpeningBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/player/ai/RealtimeEvaluator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/player/ai/StaticEvaluator.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2T53dYIemTi82DCG7fd6DwFcffI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "dart.analysis.tool.window.visible": "false",
+    "last_opened_file_path": "D:/ReversiGameUNCP",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "show.migrate.to.gradle.popup": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ReversiGameUNCP" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main" />
+      <module name="ReversiGameUNCP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48664240-7d64-4d65-9b5a-9331e715967a" name="Changes" comment="" />
+      <created>1690319202480</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690319202480</updated>
+      <workItem from="1690319203681" duration="310000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
